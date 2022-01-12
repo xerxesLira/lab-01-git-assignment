@@ -1,18 +1,25 @@
 # lab-assignment-01 
 
-
 ## Assignment
-* Clone the repository at https://github.com/TELE36058-Software-Defined-Networks/lab-01-git-assignment.git
-* Create a new branch call it student-full-name
-* Add a file to the participants directory (students) that describes you [Name, email, you gitrepo url ] .. see the directory for an example
-* Use git add to add that file to the repository.
-* Use git commit to commit your change. Use a meaningful message like "Added information about YOUR NAME HERE."
-* Use git push to send your change to the primary repository.
-* Look online to see if your change has been pushed.
-* Wait until your partner has pushed their update. Then use git pull to get their change into your repository. Verify that you have the new file.
-* Use git log or git log | less to see a list of changes to the repository.
-* Edit the file participants.md to add your name. Then add the file, commit it, and push it.
-* Whoever tries to push the file first will likely succeed. Whoever tries to push the file second will likely get an error message. Figure out how to resolve the error message.
+This assisngment will focus on creating a FORK on your own private repo and adding your information to this main lab-01-git-assignment.
+
+## Objectives
+
+1. FORK the repository at https://github.com/TELE36058-Software-Defined-Networks/lab-01-git-assignment.git
+2. Clone the repo from your own private repo. 
+
+Note: To get the latest updates from the MAIN repo, you have to "Fetch Upsteam" 
+
+3. Add a file to the participants directory (students) that describes you [Name, email, you gitrepo url ] .. see the directory for an example
+4. Use git add to add that file to the repository.
+5. Use git commit to commit your changes to your repo. Use a meaningful message like "Added information about YOUR NAME HERE."
+6. When you are finished... Log into the GUI of GITHUB
+7. Find/Learn how to "Contribute" your code. 
+8. You will need to Open a Pull Request
+9. Open a Pull request: Make sure to add a TITLE: YOUR NAME .. Leave a comment
+10. Click Create pull request
+
+If there are no errors you are good.
 
 ## Marks
 
