@@ -6,7 +6,7 @@ This assignment gives you a chance to explore basic use of Git and GitHub.
 git clone REPO
 ```
 
-Make a copy of a repository. A typical repository address is https://github.com/Grinnell-CSC195/hw1.
+Make a copy of a repository. A typical repository address is https://github.com/TELE36058-Software-Defined-Networks/lab-01-git-assignment.git
 
 ```
 git add FILE
