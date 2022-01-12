@@ -1,4 +1,4 @@
-# lab-assignment-01 
+# lab-assignment-2
 
 ## Assignment
 This assisngment will focus on creating a FORK on your own private repo and adding your information to this main lab-01-git-assignment.
