@@ -1,6 +1,13 @@
 # Assignment: Exploring Git
 This assignment gives you a chance to explore basic use of Git and GitHub.
 
+## Documents and Notes
+* https://git-scm.com/
+* https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class
+* Git Hub Cheat Sheet https://training.github.com/downloads/github-git-cheat-sheet/
+* Git Labt sheet https://about.gitlab.com/images/press/git-cheat-sheet.pdf
+
+
 ## Reference
 ```
 git clone REPO
