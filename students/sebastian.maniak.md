@@ -1,0 +1,3 @@
+Name: Sebastian Maniak
+Email: Sebastian.maniak1@sheridancollege.ca
+Git Repo: https://github.com/maniak-academy
