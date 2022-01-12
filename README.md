@@ -11,8 +11,9 @@ This assignment gives you a chance to explore basic use of Git and GitHub.
 
 ## Assignment & Marks
 Total Mark 10
-* [lab-assignment-1](https://github.com/TELE36058-Software-Defined-Networks/lab-01-git-assignment/blob/main/lab-assignment-1.md) 2 Points
-* [lab-assignment-2](https://github.com/TELE36058-Software-Defined-Networks/lab-01-git-assignment/blob/main/lab-assignment-2.md) 2 Points
+* [lab-assignment-1](https://github.com/TELE36058-Software-Defined-Networks/lab-01-git-assignment/blob/main/lab-assignment-1.md) 3 Points
+* [lab-assignment-2](https://github.com/TELE36058-Software-Defined-Networks/lab-01-git-assignment/blob/main/lab-assignment-2.md) 5 Points
+* [lab-assignment-3](https://github.com/TELE36058-Software-Defined-Networks/lab-01-git-assignment/blob/main/lab-assignment-3.md) 2 Points
 
 
 ## Reference Documents and Notes
