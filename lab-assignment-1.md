@@ -1,4 +1,4 @@
-# lab-assignment-02
+# lab-assignment-01
 
 ## Assignment
 * One your own GITHUB account, create a new repository called hello-git-world
