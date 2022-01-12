@@ -1,5 +1,7 @@
 # lab-assignment-01 
 
+
+## To Do 
 * Clone the repository at https://github.com/TELE36058-Software-Defined-Networks/lab-01-git-assignment.git
 * Create a new branch call it student-full-name
 * Add a file to the participants directory (students) that describes you [Name, email, you gitrepo url ] .. see the directory for an example
