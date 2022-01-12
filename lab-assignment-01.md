@@ -1,7 +1,7 @@
 # lab-assignment-01 
 
-* Clone the repository at https://github.com/TELE36058-Software-Defined-Networks/
-* Add a file to the participants directory (students) that describes you.
+* Clone the repository at https://github.com/TELE36058-Software-Defined-Networks/lab-01-git-assignment.git
+* Add a file to the participants directory (students) that describes you [Name, email, you gitrepo url ] 
 * Use git add to add that file to the repository.
 * Use git commit to commit your change. Use a meaningful message like "Added information about YOUR NAME HERE."
 * Use git push to send your change to the primary repository.
