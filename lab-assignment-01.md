@@ -1,7 +1,7 @@
 # lab-assignment-01 
 
 
-## To Do 
+## Assignment
 * Clone the repository at https://github.com/TELE36058-Software-Defined-Networks/lab-01-git-assignment.git
 * Create a new branch call it student-full-name
 * Add a file to the participants directory (students) that describes you [Name, email, you gitrepo url ] .. see the directory for an example
@@ -14,3 +14,8 @@
 * Edit the file participants.md to add your name. Then add the file, commit it, and push it.
 * Whoever tries to push the file first will likely succeed. Whoever tries to push the file second will likely get an error message. Figure out how to resolve the error message.
 
+## Marks
+
+(0.5 point) Successfully created a new branch
+(1 point) Successfully added, commited, and pushed info into the students folder
+(0.5 point) Wrote short, one line, and coherent commit messages
