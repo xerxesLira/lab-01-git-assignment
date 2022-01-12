@@ -21,6 +21,8 @@ Note: To get the latest updates from the MAIN repo, you have to "Fetch Upsteam"
 
 If there are no errors you are good.
 
+Note: At the end of the lab, you should be bale to Fetrch Upsteam repo and see more students naems in the folder
+
 ## Marks
 
 (0.5 point) Successfully created a new branch
