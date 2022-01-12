@@ -9,14 +9,24 @@ This assignment gives you a chance to explore basic use of Git and GitHub.
 
 
 
-## Assignment 
+## Assignment & Marks
 Total Mark 10
 * [lab-assignment-01](https://github.com/TELE36058-Software-Defined-Networks/lab-01-git-assignment/blob/main/lab-assignment-01.md) 2 Points
 * [lab-assignment-02](https://github.com/TELE36058-Software-Defined-Networks/lab-02-git-assignment/blob/main/lab-assignment-01.md) 2 Points
-* 
 
 
-## Reference
+### Each section is worth 2 points
+* (0.5 point) Successfully created the hello-world repo. No credit for this lab if I cannot find your hello-world repo.
+* (1 point) Successfully added, commited, and pushed a funny image to hello-world repo
+* (0.5 point) Wrote short, one line, and coherent commit messages
+
+## Reference Documents and Notes
+* https://git-scm.com/
+* https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class
+* Git Hub Cheat Sheet https://training.github.com/downloads/github-git-cheat-sheet/
+* Git Labt sheet https://about.gitlab.com/images/press/git-cheat-sheet.pdf
+
+
 ```
 git clone REPO
 ```
