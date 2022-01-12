@@ -9,6 +9,7 @@ This assignment gives you a chance to explore basic use of Git and GitHub.
 
 ## Assignment 
 * [lab-assignment-01](https://github.com/TELE36058-Software-Defined-Networks/lab-01-git-assignment/blob/main/lab-assignment-01.md)
+* [lab-assignment-02](https://github.com/TELE36058-Software-Defined-Networks/lab-02-git-assignment/blob/main/lab-assignment-01.md)
 
 
 ## Reference
