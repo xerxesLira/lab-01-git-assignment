@@ -8,7 +8,7 @@ This assignment gives you a chance to explore basic use of Git and GitHub.
 * Git Labt sheet https://about.gitlab.com/images/press/git-cheat-sheet.pdf
 
 ## Assignment 
-* [lab-01-A-assignment](https://github.com/TELE36058-Software-Defined-Networks/lab-01-git-assignment/blob/main/lab-01-A-assignment)
+* [lab-assignment-01](https://github.com/TELE36058-Software-Defined-Networks/lab-01-git-assignment/blob/main/lab-01-A-assignment)
 
 
 ## Reference
