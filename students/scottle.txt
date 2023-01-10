@@ -1,3 +1,0 @@
-- 👋 Hi my Name: Scott Le
-- 👋 Email: scottyle02@outlook.com
-- 👋 Git Repo: https://github.com/scottyle/lab-01-git-assignment
